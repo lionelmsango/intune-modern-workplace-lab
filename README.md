@@ -15,6 +15,7 @@ The secondary goal was demonstrating that I could work with Win32 app packaging,
 ## Architecture
 
 *(See diagram at the top of this README)*
+![Architecture](https://github.com/lionelmsango/intune-modern-workplace-lab/blob/5e8c10121872587078a8d9ff3251adaab9893b9e/intune_project_architecture.svg)
 
 ```
 Microsoft 365 Tenant (LioHomeLab.onmicrosoft.com)
