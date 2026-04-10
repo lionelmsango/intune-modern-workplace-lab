@@ -355,4 +355,3 @@ The compliance dashboard shows 1 Compliant, 0 Noncompliant — which is the corr
 
 ---
 
-*Stand: April 2026 | Lionel Sango | [LinkedIn](https://linkedin.com/in/lionelsango) | [GitHub Portfolio](https://github.com/lionelsango/it-portfolio)*
