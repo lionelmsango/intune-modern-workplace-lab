@@ -1,7 +1,4 @@
-# Microsoft Intune – Modern Workplace Endpoint Management
-
-> **Home Lab Project #10** | Microsoft Intune · Entra ID · Conditional Access · MAM · Win32 App Deployment  
-> **Tenant:** LioHomeLab.onmicrosoft.com | **Duration:** 5 days | **Screenshots:** 24
+# Microsoft Intune: Modern Workplace Endpoint Management
 
 ---
 
@@ -9,9 +6,9 @@
 
 Most Intune tutorials stop at enrollment. You click through a wizard, a device shows up in the portal, and that's considered done. That wasn't good enough for what I was trying to build here.
 
-This project was about building a complete endpoint management story — one where every piece connects to the next. Enrollment feeds compliance. Compliance feeds Conditional Access. Conditional Access either grants or blocks access to M365 resources. That chain is what makes Intune relevant to enterprise security, and it's what I wanted to prove I understood — not just configure.
+This project was about building a complete endpoint management story, one where every piece connects to the next. Enrollment feeds compliance. Compliance feeds Conditional Access. Conditional Access either grants or blocks access to M365 resources. That chain is what makes Intune relevant to enterprise security, and it's what I wanted to prove I understood, not just configure.
 
-The secondary goal was demonstrating that I could work with Win32 app packaging, which most job postings in the German IT market mention alongside Intune. Deploying an app with a one-click built-in wizard is easy. Packaging an `.exe` with `IntuneWinAppUtil.exe`, writing silent install commands, configuring detection rules — that's what an actual admin does.
+The secondary goal was demonstrating that I could work with Win32 app packaging, alongside Intune. Deploying an app with a one-click built-in wizard is easy. Packaging an `.exe` with `IntuneWinAppUtil.exe`, writing silent install commands, configuring detection rules. That's what an actual admin does.
 
 ---
 
