@@ -2,6 +2,10 @@
 
 ---
 
+## Kurzbeschreibung
+
+Dieses Projekt demonstriert den Aufbau einer vollständigen Zero-Trust-Endpunktverwaltung mit Microsoft Intune. Ein Windows-11-Gerät wurde über Entra ID in Intune eingebunden, eine Compliance-Richtlinie (BitLocker, Firewall, Defender) konfiguriert und ein vollständiger Remediationszyklus dokumentiert: Gerät als nicht konform erkannt, Ursache identifiziert, BitLocker aktiviert, Konformität wiederhergestellt. Eine Conditional-Access-Richtlinie blockiert nicht verwaltete Geräte vom Zugriff auf alle M365-Ressourcen. Ergänzend wurden Windows-Sicherheitsbaseline, Update-Ringe, M365-App-Deployment, Win32-App-Paketierung mit IntuneWinAppUtil.exe sowie eine Android-MAM-BYOD-Richtlinie implementiert.
+
 ## What This Project Is About
 
 Most Intune tutorials stop at enrollment. You click through a wizard, a device shows up in the portal, and that's considered done. That wasn't good enough for what I was trying to build here.
